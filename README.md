@@ -17,17 +17,21 @@
 
 ## 🙋‍♀️ My Part
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49590389/120925125-11fc0580-c712-11eb-89c3-a58b9a2b1f93.jpg" width="25%"/> <img src="https://user-images.githubusercontent.com/49590389/120925168-4c65a280-c712-11eb-9a3a-ac94d061cc12.jpg" width="25%"/> <img src="https://user-images.githubusercontent.com/49590389/120925219-9058a780-c712-11eb-9ef3-6f00e05beb57.jpg" width="25%"/> <img src="https://user-images.githubusercontent.com/49590389/120925220-9189d480-c712-11eb-9509-5f52050ac820.jpg" width="25%"/>
+ </p>
+
 * **로그인 기능 구현**
-  - 카카오 간편 로그인
-  - 카카오 token를 BackEnd와 연동하여 로그인
+  - 카카오 간편 로그인 Api
+  - 카카오 token 이용하여 BackEnd와 연동후 로그인 기능
 
 * **회원 가입 기능 구현**
-  - BackEnd와 연동하여 회원 가입 구현
+  - BackEnd와 연동하여 서버 Api를 사용하여 회원 가입 구현
 
 * **마이 페이지 기능 구현**
-  - 마이 페이지 Ui 구현
-  - 프로필 수정 페이지 Ui 및 기능 구현 ( 회원 정보 수정 )
-  - 회원 탈퇴 / 로그아웃 구현 ( 카카오 회원가입 탈퇴 / BackEnd에 있는 DB 삭제)
+  - DataBinding two way를 이용하여 반응형 마이 페이지 Ui 구현
+  - 정규식을 이용과 서버 Api를 이용하여 프로필 수정 페이지 Ui 및 기능 구현 ( 회원 정보 수정 )
+  - 서버 Api와 카카오 Api를 이용한 회원 탈퇴 / 로그아웃 구현 ( 카카오 회원가입 탈퇴 / BackEnd에 있는 DB 삭제)
   - 게시글 스크랩 Ui 및 기능 구현 ( 스크랩한 게시글 표시 / 해제 / 이동 )
   - 게시글 히스토리 Ui 및 기능 구현 ( 현재 진행중인 게시글 / 모임이 끝난 게시글로 분류 )
   - 현재 신청 진행중인 히스토리 Ui 및 기능 구현 ( 현재 모집된 다른 유저 히스토리 보기, 모집 진행 상황 보기 )
