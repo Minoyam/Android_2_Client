@@ -17,13 +17,14 @@
 
 ## 🙋‍♀️ My Part
 
-<p>
-<img src="https://user-images.githubusercontent.com/49590389/120925125-11fc0580-c712-11eb-89c3-a58b9a2b1f93.jpg" width="50%"/> <img src="https://user-images.githubusercontent.com/49590389/120925168-4c65a280-c712-11eb-9a3a-ac94d061cc12.jpg" width="50%"/> 
- </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49590389/120925125-11fc0580-c712-11eb-89c3-a58b9a2b1f93.jpg" width="50%"/> <img src="https://user-images.githubusercontent.com/49590389/120925168-4c65a280-c712-11eb-9a3a-ac94d061cc12.jpg" width="50%"/>
+</p>
 
-<p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/49590389/120925219-9058a780-c712-11eb-9ef3-6f00e05beb57.jpg" width="50%"/> <img src="https://user-images.githubusercontent.com/49590389/120925220-9189d480-c712-11eb-9509-5f52050ac820.jpg" width="50%"/>
- </p>
+</p>
+
 * **로그인 기능 구현**
   - 카카오 간편 로그인 Api
   - 카카오 token 이용하여 BackEnd와 연동후 로그인 기능
